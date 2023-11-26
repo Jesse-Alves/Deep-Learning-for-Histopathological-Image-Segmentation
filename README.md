@@ -71,40 +71,13 @@
 ## About The Project
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
-Currently, optimization strategies serve as pillars of progress in engineering design research and myriad other domains, shaping efficiency, precision, and innovation. In medical robotics, these methods ensure surgical precision, navigating delicate procedures within the body while minimizing invasiveness and maximizing patient outcomes. Engineering marvels, from transportation systems to sustainable energy, owe their efficiency and functionality to optimization techniques. The present work focuses on the implementation of classic optimization strategies, such as Linear Programming, Newton, Secant, Gradient descent, stepeest descent,and other algorithms within Matlab. Besides the implementaion,a report was written analyzing the results, such as convergence in local and global minimum, time and number of iterations for convergence and efficiency of the models.
-
-Keywords: Engineering, Robotics, Optimization, Medical Field, Algorithms, Matlab.
-[Full article]()
-
-<!--
-<p float="left">
-  <img src="images/img.png" width="500" height="450" />
-<!--   <img src="images/img2.jpg" width="500" height="300" /> 
-</p>
--->
-
-<div align="center">
-  <a href=" ">
-    <img src="images/img1.jpg" width="400" height="350" />
-    <img src="images/img1.jpg" width="400" height="350" />
-  </a>
-</div>
+This is an Initiation Research Project. Where the article [Weakly Supervised Learning using Attention gates for colon cancer histopathological image segmentation (Hamida et al)](https://github.com/Jesse-Alves/Deep-Learning-for-Histopathological-Image-Segmentation/blob/main/Original%20Paper/Weakly%20Supervised%20Learning%20using%20Attention%20gates%20for%20colon%20cancer%20histopathological%20image%20segmentation.pdf) was studeid and a [Poster](https://github.com/Jesse-Alves/Deep-Learning-for-Histopathological-Image-Segmentation/blob/main/POSTER%20-%20Deep_Learning_for_Histopathological_Image_Segmentation.pdf) of the article was written and presented.
 
 
-<!--
-<div align="center">
-  <a href="https://github.com/Jesse-Alves?tab=repositories">
-    <img src="images/img1.JPG" alt="Logo" width="200" height="400">
-  </a
-  <a href="https://github.com/Jesse-Alves?tab=repositories">
-    <img src="images/img2.jpg alt="Logo" width="200" height="100">
-  </a
-    <br />
-</div>
--->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Poster
+
+[](https://github.com/Jesse-Alves/Deep-Learning-for-Histopathological-Image-Segmentation/blob/main/POSTER%20-%20Deep_Learning_for_Histopathological_Image_Segmentation.pdf)
 
 
 
